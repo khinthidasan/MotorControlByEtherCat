@@ -12,6 +12,7 @@ $ pip install pysoem
 https://pysoem.readthedocs.io/en/latest/installation.html
 
 [ run ]
-python motorControl.py
+python two_motors_job_control.py  ( two motors sync motion CW/CCW , 2 wheels differential drive motion , JOG motion)
+python motorControl.py   ( Position motion )
 
 
